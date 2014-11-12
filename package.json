@@ -1,5 +1,5 @@
 {
-  "name": "node-run-mode",
+  "name": "run-mode",
   "version": "1.0.0",
   "description": "Simple utility functions for reading the Node.js NODE_ENV.",
   "main": "index.js",
