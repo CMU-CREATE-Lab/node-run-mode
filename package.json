@@ -1,0 +1,24 @@
+{
+  "name": "node-run-mode",
+  "version": "1.0.0",
+  "description": "Simple utility functions for reading the Node.js NODE_ENV.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CMU-CREATE-Lab/node-run-mode.git"
+  },
+  "keywords": [
+    "node_env",
+    "environment",
+    "env"
+  ],
+  "author": "Chris Bartley <bartley@cmu.edu>",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/CMU-CREATE-Lab/node-run-mode/issues"
+  },
+  "homepage": "https://github.com/CMU-CREATE-Lab/node-run-mode"
+}
