@@ -44,7 +44,7 @@ module.exports.getValidModes = function() {
  * @return {boolean}
  */
 module.exports.isValid = function() {
-   return typeof nodeEnvironment !== 'undefined' && nodeEnvironment != null;
+   return typeof nodeEnvironment !== 'undefined' && nodeEnvironment !== null;
 };
 
 /**
